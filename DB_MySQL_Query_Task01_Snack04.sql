@@ -1,0 +1,3 @@
+SELECT *
+FROM sku_data
+WHERE SKU LIKE "%2%";
